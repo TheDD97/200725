@@ -13,13 +13,10 @@ public class MyMath {
             if(isPrime(i))
                 primeNumbers.add(i);
         }
-        System.out.println("CIAO");
         return primeNumbers;
     }
 
     private boolean isPrime(int n){
-        if (n<2)
-            return false;
         int div=0;
         for(int i=1;i<n;i++)
             if(n%i==0)
