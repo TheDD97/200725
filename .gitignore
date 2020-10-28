@@ -1,8 +1,12 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Datasource local storage ignored files
 /../../../../../../../../../../:\Users\panet\OneDrive\Documenti\Univ\ingsw\Lab\EsercitazionePreEsame\.idea/dataSources/
 /dataSources.local.xml
+/target/
+.project
+.classpath
+.settings
 # Editor-based HTTP Client requests
 /httpRequests/
